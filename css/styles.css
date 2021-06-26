@@ -1,0 +1,46 @@
+body{
+  background-color: #5D534A;
+}
+
+
+
+h1 {
+  color: #FFF5DA;
+  font-size: 150px;
+}
+
+h2 { color: red;
+  font-size: 100px;
+
+}
+
+h3 {
+  color: #FFF5DA;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-right: auto;
+  width: 50%
+
+}
+
+
+
+
+
+
+
+a:link, a:visited {
+  background-color: #5D534A;
+  color: yellow;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: black;
+}
